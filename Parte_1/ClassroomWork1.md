@@ -12,22 +12,22 @@ En esta actividad de dos horas, crearán una aplicación de cuestionario en lín
 
 ### **Componentes de la actividad:**
 
-1. **Configuración del entorno (15 minutos):** Lo guiaremos a través del proceso de configuración para garantizar que tenga acceso a un servidor web con capacidad para PHP o un entorno de desarrollo adecuado.
+**1. Configuración del entorno (15 minutos):** Lo guiaremos a través del proceso de configuración para garantizar que tenga acceso a un servidor web con capacidad para PHP o un entorno de desarrollo adecuado.
 
-2. **Creación del formulario de cuestionario (30 minutos):**
+**2. Creación del formulario de cuestionario (30 minutos):**
    - Se proporcionarán plantillas HTML y CSS para crear el formulario de cuestionario. Este formulario incluirá preguntas de opción múltiple relacionadas con los conceptos de PHP.
    - La tarea es personalizar el formulario agregando preguntas y opciones que cubran diversos temas de PHP, como bucles, condicionales, variables, funciones, POO, manejo de formularios con métodos POST y GET, validación de formularios y matrices.
    - Puede utilizar la plantilla HTML y CSS proporcionada como punto de partida y modificarla para que coincida con su diseño preferido para la interfaz del cuestionario.
 
-3. **Manejo de la presentación del formulario (20 minutos):**
+**3. Manejo de la presentación del formulario (20 minutos):**
    - En esta parte, hay que procesar los formularios utilizando la superglobal `$_POST` de PHP.
    - La tarea es validar el formulario para asegurarse de que todas las preguntas estén respondidas. Muestra un mensaje de error si falta la respuesta a alguna pregunta.
 
-4. **Creación de una clase PHP para la lógica del cuestionario (20 minutos):**
+**4. Creación de una clase PHP para la lógica del cuestionario (20 minutos):**
    - Crear una clase PHP (por ejemplo, `Quiz`) para manejar la lógica del cuestionario.
    - La clase debe incluir métodos para almacenar y recuperar preguntas y respuestas, calcular la puntuación en función de las respuestas correctas y generar comentarios para cada pregunta.
 
-5. **Visualización de los resultados del cuestionario (15 minutos):**
+**5. Visualización de los resultados del cuestionario (15 minutos):**
    - Utilizar PHP para mostrar los resultados del cuestionario después de la presentación.
    - Mostrará la puntuación del usuario y proporcionará comentarios sobre cada pregunta.
    - Incluya un botón que permita a los usuarios repetir el cuestionario si lo desean.
