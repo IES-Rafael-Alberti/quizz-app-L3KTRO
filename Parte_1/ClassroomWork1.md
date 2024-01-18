@@ -5,7 +5,7 @@ Estimados estudiantes,
 ¡Nos entusiasma presentar una actividad interactiva y atractiva de cuestionario PHP que les permitirá poner en práctica y reforzar su conocimiento de los conceptos clave de PHP! Esta actividad está diseñada para ser divertida y educativa, proporcionándoles experiencia práctica en el desarrollo web con PHP.
 
 ## **Objetivo:**
-El objetivo principal de esta actividad es aplicar y consolidar su comprensión de varios conceptos de PHP, incluyendo pero no limitado a: bucles, condicionales, variables, funciones, programación orientada a objetos (POO), manejo de formularios con métodos POST y GET, validación de formularios y matrices.
+El objetivo principal de esta actividad es aplicar y consolidar la comprensión de varios conceptos de PHP, incluyendo pero no limitado a: bucles, condicionales, variables, funciones, programación orientada a objetos (POO), manejo de formularios con métodos POST y GET, validación de formularios y matrices.
 
 ### **Descripción general de la actividad:**
 En esta actividad de dos horas, crearán una aplicación de cuestionario en línea utilizando PHP. El cuestionario cubrirá varios temas de PHP, y serán responsables de diseñar la interfaz del cuestionario, manejar las presentaciones de los usuarios y proporcionar comentarios inmediatos a los usuarios en función de sus respuestas.
